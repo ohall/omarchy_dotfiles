@@ -1,0 +1,29 @@
+# Secrets and sensitive data
+*.pem
+*.key
+*_secret*
+*_token*
+.env
+.env.*
+secrets/
+credentials/
+
+# API keys
+*apikey*
+*api_key*
+
+# SSH keys
+id_rsa
+id_ed25519
+*.pub
+
+# Auth tokens
+gh_token
+.netrc
+
+# Cache and generated files
+*.cache
+*.log
+__pycache__/
+*.pyc
+.DS_Store

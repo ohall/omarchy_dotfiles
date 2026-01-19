@@ -1,0 +1,1 @@
+/home/oak/.config/omarchy/current/theme/neovim.lua
