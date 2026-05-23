@@ -13,3 +13,5 @@ source ~/.local/share/omarchy/default/bash/rc
 # macOS-style clipboard aliases (Wayland)
 alias pbcopy='wl-copy'
 alias pbpaste='wl-paste'
+
+. "$HOME/.local/bin/env"
